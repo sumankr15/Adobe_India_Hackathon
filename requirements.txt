@@ -1,0 +1,20 @@
+pdfminer.six==20221105
+# PyMuPDF==1.22.0
+# (Optional for advanced NLP in 1B; keep models lightweight!)
+sentence-transformers==2.2.2
+scikit-learn==1.3.0
+# nltk==3.8
+# spacy==3.5.0
+
+langdetect==1.0.9
+
+
+
+# Core dependencies for PDF parsing, OCR, and language detection
+PyMuPDF==1.26.3
+
+pytesseract==0.3.13
+Pillow==11.3.0
+
+# Utility for displaying progress bars
+tqdm==4.67.1
